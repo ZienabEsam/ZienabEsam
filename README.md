@@ -4,6 +4,7 @@
 - 📫 You cant reach out to me by sending e-mail:
 # ZienabEsam@gmail.com
 # Twitter handler : @Zienab__Esam
+#Medium : @zienabesam
 
 <!---
 ZienabEsam/ZienabEsam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
