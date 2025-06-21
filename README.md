@@ -1,5 +1,5 @@
-#Hola I’m an Embedded AI/ML engineer I create solution for diffrent types of problems in embedded AI/ML. Also I love Java and Android development
-- checkout my repos you will find something Interresting for sure ,I’m currently digging deeper in AI/ML and Embedded AI
+![Black Elegant Modern Personal LinkedIn Banner](https://github.com/user-attachments/assets/96acfeb4-f416-4f1b-9a19-9fb8141cf332)
+
 # I will be glad to collaborate on AI or Embedded projects 
 - 📫 You can reach out to me by sending e-mail to:
 # ZienabEsam@gmail.com
