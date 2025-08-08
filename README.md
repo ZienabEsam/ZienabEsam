@@ -1,42 +1,25 @@
 ![Black Elegant Modern Personal LinkedIn Banner](https://github.com/user-attachments/assets/96acfeb4-f416-4f1b-9a19-9fb8141cf332)
 
-# Want accelerate your business ? Contact me 
-- 📫 You can reach out to me by sending email to:
-# ZienabEsam@gmail.com
-- or you cand send me a massage on whatsapp : +201097226885
-# LinkedIN: [zienab esam](https://www.linkedin.com/in/zienabesam/)
-- or you can find me on X @
-X handler: @Zienab__Esam
+# Hi, I'm Zienab Esam 👋
 
-- Also, I write on Medium if you would like to find out more about me 
-Medium: @zienabesam
-_____________________________________________________________________________________________________________________________________________________________
-Skills
+** I'm an Embedded AI Engineer & Technical Team Leader**
 
-[![My Skills](https://skillicons.dev/icons?i=pycharm,anaconda,arduino,raspberrypi,git,github,linux,ubuntu,debian,eclipse,firebase,vscode)](https://skillicons.dev)
-___________________________________________________________________________________________________________________________________________________________________
-Programming Languages & Frameworks:
+-  **Projects & Impact**  
+   - **Project A** – *2x performance improvement on XYZ*, deployed in ABC.  
+   - **Project B** – *Reduced power consumption by 30%*, integrated into DEF.
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,js,opencv,pytorch,tensorflow)](https://skillicons.dev)
+-  **Tech Stack & Tools**  
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+  ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-FF6F61?style=for-the-badge)  
+  *(add badges relevant to your skill set)*
 
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![Caffe](https://img.shields.io/badge/Caffe-6F4E37?style=flat-square)
-![ipyparallel](https://img.shields.io/badge/ipyparallel-F78523?style=flat-square&logo=jupyter&logoColor=white)
-![Ray](https://img.shields.io/badge/Ray-615EFE?style=flat-square&logo=ray&logoColor=white)
+-  **Connect with Me**  
+  [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zienabesam)
 
-______________________________________________________________________________________________________________________________________________________________
-Embedded Systems and IOT Skills:
+-  **GitHub Stats**  
+  ![Zienab’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ZienabEsam&show_icons=true)
 
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-007ACC?style=flat-square)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![PCB Design](https://img.shields.io/badge/PCB%20Design-4CAF50?style=flat-square)
-![VHDL](https://img.shields.io/badge/VHDL-8B0000?style=flat-square)
-![MicroPython](https://img.shields.io/badge/MicroPython-3776AB?style=flat-square&logo=python&logoColor=white)
+---
 
-
-
-<!---
-ZienabEsam/ZienabEsam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> "Driven by curiosity, fueled by code. Always learning, always growing."
