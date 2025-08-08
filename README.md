@@ -12,16 +12,12 @@
 - You can find My brand on social on
   
 [![X (Twitter)](https://img.shields.io/badge/Twitter-@Zienab__Esam-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Zienab__Esam)  
-[![Medium](https://img.shields.io/badge/Medium-%40zienabesam-D3D3D3?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@zienabesam)  
 [![Instagram](https://img.shields.io/badge/Instagram-creators.vision.official-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/creators.vision.official/)
-
-
-# LinkedIN: [zienab esam](https://www.linkedin.com/in/zienabesam/)
-- or you can find me on X @
-X handler: @Zienab__Esam
-
 - Also, I write on Medium if you would like to find out more about me 
-Medium: @zienabesam
+
+[![Medium](https://img.shields.io/badge/Medium-%40zienabesam-D3D3D3?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@zienabesam)  
+
+
 _____________________________________________________________________________________________________________________________________________________________
 Skills
 
